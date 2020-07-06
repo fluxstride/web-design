@@ -1,0 +1,39 @@
+#div1{
+    background-color: #003cff;
+    padding: 0px 0px 15px;
+    margin-top: -20px;
+}
+
+h1{
+    padding-top: 10px ;
+    box-shadow: black;
+}
+
+#div1 h1, h2{
+    color: #ffffff;
+    text-align: center;
+}
+
+#div1 h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#div1 h2{
+    text-align: center;
+    padding: 5px;
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    margin: 0px 15%;
+}
+
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+table ,th ,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+@media (max-)
